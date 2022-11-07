@@ -1,0 +1,419 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: rgb(241, 234, 234, 0.9);
+    border-radius: 5px;
+    box-shadow: 0px 2px 15px rgb(11 164 6);
+
+}
+
+img {
+    margin-left: 20px;
+}
+
+.item {
+    margin-right: 20px;
+}
+
+.item a {
+    text-decoration: none;
+    padding: 22px;
+    color: #232088;
+    font-weight: 600;
+}
+
+.h2 {
+    text-align: center;
+    font-weight: 500;
+    margin-top: 45px;
+    color: #232088;
+
+}
+
+.main1 {
+    padding-left: 0px;
+    margin: 0px;
+
+}
+
+.st input {
+    width: 300px;
+    height: 20px;
+    border-radius: 5px solid;
+}
+
+.st1 input {
+    width: 300px;
+    height: 20px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.main2 {
+
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    margin-left: 113px;
+
+}
+
+.st2 select {
+    width: 300px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+
+}
+
+.st3 select {
+    width: 145px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st4 select {
+    width: 148px;
+    height: 25px;
+    margin: 3px 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+
+}
+
+.main3 {
+    width: 300px;
+    height: 20px;
+    border-radius: 5px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 113px;
+    margin-top: 15px;
+}
+
+.st5 input {
+    width: 200px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st6 input {
+    width: 190px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st7 input {
+    width: 190px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+
+.st8 input {
+    width: 607px;
+    height: 20px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st9 input {
+    width: 607px;
+    height: 20px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st10 input {
+    width: 607px;
+    height: 20px;
+    border-radius: 5px solid;
+    margin-top: 15px;
+}
+
+.st11 select {
+    width: 607px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-top: 15px;
+
+}
+
+.btn {
+
+    background-color: #1bbd36;
+    align-items: center;
+    margin-left: 240px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+form {
+    width: 614px;
+    box-shadow: 3px 3px 3px 3px gray;
+    border-radius: 5px;
+    margin-top: 25px;
+
+}
+
+footer {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 90px;
+    background-color: #15A852;
+    border-radius: 7px;
+
+}
+
+footer h4 {
+    position: absolute;
+    right: 235px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 25px;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: rgb(241, 234, 234, 0.9);
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px 1px green;
+
+}
+
+img {
+    margin-left: 20px;
+}
+
+.item {
+    margin-right: 20px;
+}
+
+.item a {
+    text-decoration: none;
+    padding: 5px;
+    color: #232088;
+    font-weight: 600;
+}
+
+.h2 {
+    text-align: center;
+    font-weight: 500;
+    margin-top: 45px;
+    color: #232088;
+
+}
+
+.main1 {
+    padding-left: 45px;
+    margin: 15px;
+}
+
+.st input {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px solid;
+}
+
+.st1 input {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.main2 {
+
+    display: flex;
+    justify-content: space-between;
+    margin-right: 700px;
+
+}
+
+.st2 select {
+    width: 300px;
+    height: 40px;
+    /* margin: 5px; */
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st3 select {
+    width: 145px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st4 select {
+    width: 145px;
+    height: 40px;
+    margin: 3px 5px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+
+}
+
+.main3 {
+    width: 300px;
+    height: 35px;
+    margin-right: 520px;
+    border-radius: 5px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 20px;
+}
+
+.st5 input {
+    width: 200px;
+    height: 35px;
+
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st6 input {
+    width: 190px;
+    height: 35px;
+
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st7 input {
+    width: 180px;
+    height: 35px;
+
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+
+.st8 input {
+    width: 607px;
+    height: 35px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st9 input {
+    width: 607px;
+    height: 35px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st10 input {
+    width: 607px;
+    height: 35px;
+    border-radius: 5px solid;
+    margin-top: 20px;
+}
+
+.st11 select {
+    width: 607px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.btn {
+
+    background-color: #1bbd36;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+form {
+    width: 850px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+footer {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 70px;
+    background-color: #15A852;
+    border-radius: 7px;
+
+}
+
+footer h4 {
+    position: absolute;
+    right: 500px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 25px;
+
+}

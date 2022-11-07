@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+nav {
+    width: 100%;
+    background-color: #149777;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+    top: 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    transition: 0.3s all ease;
+}
+
+ul {
+    margin: 0px;
+    margin-right: 100px;
+    margin-top: 5px;
+}
+
+ul li {
+
+    float: left;
+    padding: 0px 10px;
+    list-style: none;
+    font-style: normal;
+
+}
+
+button {
+    background-color: yellow;
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.top {
+    margin-right: 400px;
+    margin-top: 5px;
+
+}
+
+.logo img {
+    width: 170px;
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 10px;
+
+
+}
+
+.top button {
+    color: white;
+    font-size: 20px;
+    background-color: #149777;
+    width: 70px;
+}
+
+.top a {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+ul li a {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.input1 input {
+    width: 500px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 300px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.product-section {
+    margin-top: 100px;
+    height: 350px;
+
+}
+
+.btn {
+
+
+    margin: 40px;
+    height: 40px;
+    border-radius: 10px;
+
+}
+
+.btn a {
+    padding: 50px;
+    margin-left: 30px;
+
+}
+
+.btn button {
+    background-color: #149777;
+    color: white;
+    font-weight: 700px;
+    font-size: 25px;
+    width: 170px;
+    height: 50px;
+
+}
+
+.product-section h1 {
+    text-align: center;
+
+}
+
+.product-section {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+}
+
+footer {
+
+    height: 70px;
+    background-color: #15A852;
+    border-radius: 7px;
+
+}
+
+footer h4 {
+    position: absolute;
+    right: 500px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 25px;
+
+}
